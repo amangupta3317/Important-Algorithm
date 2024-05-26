@@ -1,0 +1,10 @@
+1.MANACHERS ALGO 	-> Longest palindrome substring in O(N) time.
+2. KAHNS ALGO 		-> detect cycle in directed graph using BFS.
+3. Kadane's Algorithm 	-> Largest sum contiguous subarray.
+
+
+
+ABOUT XOR->
+	a^a=0
+	a^0=a
+	a^b= b^a
